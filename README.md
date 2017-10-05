@@ -7,3 +7,4 @@ Karol Woronowicz
 ## Opis
 
 to jest opis projektu
+### zmiana
